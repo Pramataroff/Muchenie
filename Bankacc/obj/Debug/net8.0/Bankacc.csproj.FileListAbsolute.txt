@@ -1,0 +1,14 @@
+E:\visual studio\classove\Bankacc\bin\Debug\net8.0\Bankacc.exe
+E:\visual studio\classove\Bankacc\bin\Debug\net8.0\Bankacc.deps.json
+E:\visual studio\classove\Bankacc\bin\Debug\net8.0\Bankacc.runtimeconfig.json
+E:\visual studio\classove\Bankacc\bin\Debug\net8.0\Bankacc.dll
+E:\visual studio\classove\Bankacc\bin\Debug\net8.0\Bankacc.pdb
+E:\visual studio\classove\Bankacc\obj\Debug\net8.0\Bankacc.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\classove\Bankacc\obj\Debug\net8.0\Bankacc.AssemblyInfoInputs.cache
+E:\visual studio\classove\Bankacc\obj\Debug\net8.0\Bankacc.AssemblyInfo.cs
+E:\visual studio\classove\Bankacc\obj\Debug\net8.0\Bankacc.csproj.CoreCompileInputs.cache
+E:\visual studio\classove\Bankacc\obj\Debug\net8.0\Bankacc.dll
+E:\visual studio\classove\Bankacc\obj\Debug\net8.0\refint\Bankacc.dll
+E:\visual studio\classove\Bankacc\obj\Debug\net8.0\Bankacc.pdb
+E:\visual studio\classove\Bankacc\obj\Debug\net8.0\Bankacc.genruntimeconfig.cache
+E:\visual studio\classove\Bankacc\obj\Debug\net8.0\ref\Bankacc.dll
